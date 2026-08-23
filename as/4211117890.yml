@@ -2,3 +2,5 @@ name: lvxy_
 contact: "2825347276"
 ip:
   - 172.16.101.0/24
+auth:
+  - ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIFr96/sZ68lvmwPzvjmwW/lVsWXlJq22edNIwuFOQCkL lvxy@nas
