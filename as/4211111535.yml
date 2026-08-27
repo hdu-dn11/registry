@@ -2,6 +2,8 @@ name: LuoYing
 contact: luwy1dn11@gmail.com
 ip:
   - 172.16.22.0/24
+auth:
+  - "ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIACSyWLNHj3/W9yuKq3pSCj6RNLQgxbMIHvtJ1uGFVPf"
 monitor:
   custom_node: |
     "itemStyle": {
